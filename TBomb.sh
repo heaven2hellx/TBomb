@@ -38,10 +38,10 @@ banner() {
         toilet -f mono12 -F border SpeedX
     fi
     echo -e "\e[1;34m For Any Queries Join Me!!!\e[0m"
-    echo -e "\e[1;32m           Telegram: https://t.me/TBombChat \e[0m"
-    echo -e "\e[4;32m   YouTube: https://www.youtube.com/c/SpeedXTech \e[0m"
+    echo -e "\e[1;32m           Telegram: https://t.me/bi0xx_network \e[0m"
+    echo -e "\e[4;32m   Ｇø∂ ✘ø : 🕊️⃝💙✰ ⃟ ⃟ Ｇø∂⚡️❥⃝ ✘🕊️⃝ø✰🇮🇳⃝❤️ \e[0m"
     echo " "
-    echo "NOTE: Kindly move to the PIP version Of TBomb for more stability."
+    echo "NOTE: Kindly move to the PIP version Of 🕊️⃝💙✰ ⃟ ⃟ Ｇø∂⚡️❥⃝ ✘🕊️⃝ø✰🇮🇳⃝❤️ for more stability."
     echo " "
 }
 
