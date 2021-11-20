@@ -7,5 +7,6 @@ pkg install git -y
 pkg install python -y 
 git clone https://github.com/heaven2hellx/TBomb.git
 cd TBomb
+cd TBomb./TBomb.sh
 ./TBomb.sh
 ```
