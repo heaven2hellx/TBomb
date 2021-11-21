@@ -3,7 +3,9 @@
 
 To use the bomber type the following commands in Termux:
 
-$
+
+
+
 ```
 pkg install git -y
 ```
